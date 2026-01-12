@@ -1,1 +1,1 @@
-# Attrition-Analysis
+This Machine learning Project is about attrition analysis 
